@@ -1,2 +1,2 @@
-# quak-s-rng
+# quaks-rng
 im bored
